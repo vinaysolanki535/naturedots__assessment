@@ -1,0 +1,23 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.getData {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 30px;
+  align-items: center;
+}
+
+.cardPage {
+  display: flex;
+  margin-left: 150px;
+  margin-right: 150px;
+  height: 65vh;
+  border: 1px solid gray;
+  border-radius: 10px;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(247, 244, 244);
+}
